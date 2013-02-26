@@ -1,0 +1,7 @@
+Use this to manage your httpd config file.
+
+After making a change just run 
+
+        make
+
+and it'll test your syntax before restarting the apache service.
